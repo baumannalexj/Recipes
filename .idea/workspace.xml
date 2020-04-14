@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aVQioAKCRLDVfHyw7cb2Tto4Ym" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
@@ -116,5 +121,9 @@
       <screen x="0" y="23" width="1680" height="971" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1680.971@0.23.1680.971" timestamp="1586828048566" />
+    <state x="802" y="176" width="782" height="561" key="VCS.ChangeListViewerDialog" timestamp="1586829782914">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="802" y="176" width="782" height="561" key="VCS.ChangeListViewerDialog/0.23.1680.971@0.23.1680.971" timestamp="1586829782914" />
   </component>
 </project>
