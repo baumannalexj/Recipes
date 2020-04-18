@@ -1,4 +1,6 @@
-from django.contrib import admin
-from django.urls import path, include
+from django.urls import path
+from hello_world import views
 
-urlpatterns = [path("", views.hello_world, name="hello_world")]
+urlpatterns = [
+    path('', views.hello_world, name='hello_world'),
+]
